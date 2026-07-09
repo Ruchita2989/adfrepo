@@ -1,0 +1,15 @@
+{
+	"name": "ruchaazure1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c9b7ddb4-3e76-490a-89e8-557fa17191f5",
+		"tenantId": "7c332436-de15-4762-b50f-dc972672126e"
+	}
+}
